@@ -7,9 +7,7 @@ Author: Jeremy Spaeth
 Version: 1.0
 Author URI: https://github.com/spaethj
 */
-/**
- * @TODO ajouter fichier .gitignor dans /inc
- */
+
 /**
  * Class Panel
  */
